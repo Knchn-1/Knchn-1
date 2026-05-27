@@ -128,6 +128,7 @@ kanchan = {
 
 ## 🏆 Achievements
 
+🏅 **1st Runner-Up** in the Orange Promptathon 2026, an AI and Prompt Engineering competition conducted at Shri Ramdeobaba University in collaboration with NASSCOM and Carrier.
 🎓 **Branch Rank 3rd** — among 120+ students, CSE Dept, RCOEM  
 ☁️ **Google Cloud Skill Boost** — Gold League  
 🏅 **Smart India Hackathon** — 2× Internal Round Qualifier  
